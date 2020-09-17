@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App/App';
 import './index.css';
-
+var coucou;
 ReactDOM.render(
   <React.StrictMode>
     <App />
